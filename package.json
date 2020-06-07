@@ -1,0 +1,36 @@
+{
+  "name": "cantadas",
+  "version": "1.1.1",
+  "description": "Não são as melhores, nem as piores, mas servem para te divertir.",
+  "main": "index.js",
+  "bin": {
+    "cantada": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorsoares96/cantadas.git"
+  },
+  "keywords": [
+    "cantadas",
+    "cantadasparaprogramadores",
+    "cantadasprogramadores"
+  ],
+  "author": "victorsoares96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorsoares96/cantadas/issues"
+  },
+  "homepage": "https://github.com/victorsoares96/cantadas#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
