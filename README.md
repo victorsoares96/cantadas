@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/victorsoares96">
-    <img alt="cantada_image" src="https://user-images.githubusercontent.com/19741953/83958881-4d3ccd80-a84d-11ea-839c-931bfd786dc8.png" width="600px" />
+    <img alt="cantada_image" src="https://user-images.githubusercontent.com/19741953/83958881-4d3ccd80-a84d-11ea-839c-931bfd786dc8.png"/>
   </a>
 </h1>
 
@@ -35,3 +35,8 @@ Este é um projeto que tem como fim divertir, juntando algumas cantadas de progr
 
 ## Instrução
 - `npx cantadas`
+<h1 align="center">
+  <a href="https://github.com/victorsoares96">
+    <img alt="cantada_image" src="https://user-images.githubusercontent.com/19741953/83959110-e66ce380-a84f-11ea-81d3-15e98971066c.gif"/>
+  </a>
+</h1>
