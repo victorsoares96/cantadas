@@ -16,8 +16,8 @@
   <a href="https://github.com/victorsoares96">
     <img alt="Made by Victor Soares" src="https://img.shields.io/badge/made%20by-victorsoares96-blue">
     <img alt="Version 1.0" src="https://img.shields.io/badge/version-1.0-brightgreen">
-    <img alt="shield" src="https://img.shields.io/david/victorsoares96/hello_world_eva">
-    <img alt="size" src="https://img.shields.io/github/languages/code-size/victorsoares96/hello_world_eva">
+    <img alt="shield" src="https://img.shields.io/david/victorsoares96/cantadas">
+    <img alt="size" src="https://img.shields.io/github/languages/code-size/victorsoares96/cantadas">
   </a>
 </p>
 
